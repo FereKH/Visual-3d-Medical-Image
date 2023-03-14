@@ -1,0 +1,8 @@
+streamlit
+streamlit-lottie
+vtk
+ipywidgets
+itkwidgets
+requests
+glob2
+pytest-shutil
